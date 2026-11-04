@@ -9,3 +9,8 @@ My name is Samrat.
 
 ## My Goal
 To become a successful AI creator.
+## Skills I Want to Learn
+- Git
+- GitHub
+- AI Tools
+- App Development
